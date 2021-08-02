@@ -4,7 +4,7 @@
 
 #### I'm a Full-Stack Developer working from India.
 
-- 🏢 I'm currently working with **DailyKit**. 
+- 🏢 I'm currently working with **Syfe**. 
 - 💻 I use daily: `javascript`, `python`, `react`, `node`, `mongodb`, `psql`, `graphql`, `REST`, `figma` and sometimes some other weird stuff.
 - 🌍 I'm mostly active within the **thenewboston** community.
 - 🌱 Learning all about **Open Source**
